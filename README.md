@@ -37,34 +37,39 @@ KPIs Analyzed:
 * Top Dispensed Drugs by Quantity
 * Average Prescription Cost Per Patient
 
-Key Insights & Findings
 
 Key Insights & Findings
 
-Key Insights & Findings
-
-1. Total Prescription Cost is High
+1. Total Prescription Cost is High:
+   
 $2.1 million spent on prescriptions during 2008-2010.
+
 High-cost drugs require rebate optimization strategies.
 
-3. Potential Rebate Savings Identified
+2. Potential Rebate Savings Identified:
+   
 Estimated rebates could recover up to $53,037.50.
+
 Comparing rebates vs. actual spending helps optimize cost strategies.
 
-4. High Demand for Specific Drugs
+3. High Demand for Specific Drugs:
+   
 The most dispensed drug had 720 claims.
+
 Identifying high-volume drugs is key for bulk rebate negotiations.
 
-5. Prescription Costs Declined Over Time
+5. Prescription Costs Declined Over Time:
+   
 Initial spending was high in early 2008 but declined gradually.
+
 Rebates remained stable, showing potential for long-term savings.
 
 
 Visualizations in the Dashboard
 
-Rebate Forecast vs. Prescription Cost (2008-2010)
+* Rebate Forecast vs. Prescription Cost (2008-2010)
 
-Top Dispensed Drugs by Quantity
+* Top Dispensed Drugs by Quantity
 
-Total Prescription Cost & Financial Burden per Patient
+* Total Prescription Cost & Financial Burden per Patient
 
