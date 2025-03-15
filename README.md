@@ -73,3 +73,9 @@ Visualizations in the Dashboard
 
 * Total Prescription Cost & Financial Burden per Patient
 
+## Project Dashboard
+This dashboard provides an overview of prescription drug claims analysis.
+
+![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/dashboard.png)
+
+
